@@ -1,5 +1,5 @@
 ### Olá, me chamo Vitor!
-Estou formando em dados pela Escola DNC.
+#Estou formando em dados pela Escola DNC.
 
 Estarei migrando para a área de dados, pois percebi ao longo da minha jornada, que tenho muita facilidade em aprender e realizar trabalhos envolvendo isso. Trabalho utilizando metodologias avançadas como Scrum Master, e LSS para solucionar as raízes dos desafios.
 
@@ -18,7 +18,6 @@ Tenho como principais Hardskills a habilidade técnica necessária para resolver
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  / >
-    <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"  / >
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  / >
     
 </div>

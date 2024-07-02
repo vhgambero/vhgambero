@@ -6,7 +6,7 @@ Estarei migrando para a área de dados, pois percebi ao longo da minha jornada, 
 Como principal objetivo, busco aplicar meus conhecimentos em empresas que estão dispostas a melhorar sua performance no mercado, e que queiram ajuda profissional com base em Dashboard e análises mais aprofundadas com base em dados.
 
 Tenho como principais Hardskills a habilidade técnica necessária para resolver qualquer tipo de incógnita na minha área com ferramentas como Excel, Power BI, SQL, Python e Six Sigma. Como principais Softskills, possuo a persuasão, liderança, ética, colaboração e a criatividade como pilares essenciais para o desenvolvimento de cases de sucesso.
-
+## 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhgambero/)
 

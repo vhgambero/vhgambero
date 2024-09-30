@@ -1,5 +1,5 @@
 # Olá, me chamo Vitor!
-### Sou em dados pela Escola DNC.
+### Sou formado em dados pela Escola DNC.
 
 Estarei migrando para a área de dados, pois percebi ao longo da minha jornada, que tenho muita facilidade em aprender e realizar trabalhos envolvendo isso. Trabalho utilizando metodologias avançadas como Scrum Master, e LSS para solucionar as raízes dos desafios.
 
